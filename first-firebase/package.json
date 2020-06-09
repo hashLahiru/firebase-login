@@ -1,0 +1,11 @@
+{
+  "name": "first-firebase",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "firebase": "^7.15.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1"
+  }
+}
